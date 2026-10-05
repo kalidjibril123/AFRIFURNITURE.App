@@ -1,0 +1,8 @@
+{
+  "name": "Remix AFRI FURNITURE",
+  "description": "A professional business management app for Afri Furniture, supporting furniture, metal, and aluminium work, workers, purchases, sales, finance, inventory, and reports in Afaan Oromoo and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
